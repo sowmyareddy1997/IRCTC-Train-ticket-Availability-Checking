@@ -19,13 +19,13 @@ The GUI built by the train_search.py looks like **GUI Train Search.png**. The ou
 **Pre-requisites needed to run the scripts:**
 The following things are needed to run the scripts:
 
-*Python compiler for the operating system
-*Chrome Browser
-*Chrome driver
-*Python Tkinter module
-*Python urllib module
-*Python selenium module
-*Python yattag module
+* Python compiler for the operating system
+* Chrome Browser
+* Chrome driver
+* Python Tkinter module
+* Python urllib module
+* Python selenium module
+* Python yattag module
 
 **Excecution of Scripts:**
 

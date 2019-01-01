@@ -2,6 +2,8 @@
 
 **This is used for Educational Purpose**
 
+This is a script that is used to check the availability of seats in various trains automatically at a single time by taking inputs from station code, to station code and jouney date.
+
 There are two Python Scripts in this repository. They are:
 * train_coder.py
 * train_search.py

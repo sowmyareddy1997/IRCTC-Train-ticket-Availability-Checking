@@ -1,6 +1,6 @@
 # IRCTC-Train-ticket-Aavailability-Checking
 
-**This is used for Educational Purpose**
+**This is used for Educational Purpose. Don't misuse it**
 
 This is a script that is used to check the availability of seats in various trains automatically at a single time by taking inputs from station code, to station code and journey date.
 

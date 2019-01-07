@@ -1,3 +1,5 @@
+#This is used for Educational Purpose. Don't misuse it
+#Paduchuri Manideep
 from bs4 import BeautifulSoup as bsib
 import urllib as url
 import csv

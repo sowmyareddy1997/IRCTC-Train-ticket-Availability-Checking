@@ -1,3 +1,5 @@
+#This is used for Educational Purpose. Don't misuse it
+#Paduchuri Manideep
 import urllib as url
 import time
 from yattag import Doc,indent
